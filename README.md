@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=600&color=58A6FF
-&background=ece6e3&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Amit+Mahata;CS+Student+%7C+AI+%26+Data+Science;Python+%7C+Machine+Learning+%7C+SQL;Open+to+Internships+%26+Collaborations"
-    alt="Typing SVG"
+    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif"
+    width="650"
+    alt="Typing animation"
   />
 </p>
 
