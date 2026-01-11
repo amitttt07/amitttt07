@@ -1,10 +1,7 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif"
-    width="650"
-    alt="Typing animation"
-  />
+  <img src="assets/typing.svg" alt="Typing Animation" width="600" />
 </p>
+
 
 
 ---
